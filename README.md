@@ -5,7 +5,7 @@
 > **Forge your dream project from a single prompt.**  
 > Nirman AI is an AI-powered web application platform that enables developers, designers, and creators to transform text prompts and UI wireframe screenshots into live, production-ready React applications in seconds.
 
-[🚀 **Try Nirman AI Live**](https://nirman-ai.vercel.app)
+[🚀 **Try Nirman AI Live**](https://nirman-ai-web.vercel.app)
 
 ---
 
@@ -93,7 +93,7 @@ Nirman AI is engineered with a modern web stack:
 ## 🌐 Live Access
 
 Experience Nirman AI directly on the web:  
-👉 **[Launch Nirman AI Web App](https://nirman-ai.vercel.app)**
+👉 **[Launch Nirman AI Web App](https://nirman-ai-web.vercel.app)**
 
 ---
 
